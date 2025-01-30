@@ -1,6 +1,6 @@
 # 🚀 SpuwTech | Modern IT Solutions
 
-![SpuwTech](https://dummyimage.com/1200x600/7c3aed/ffffff&text=SpuwTech+Website)
+![SpuwTech](https://i.ibb.co.com/Lhdzf4jC/Screenshot-2025-01-31-015154.png)
 
 ## 🌟 Introduction  
 **SpuwTech** adalah website profesional yang menawarkan solusi teknologi modern dengan desain elegan dan responsif. Website ini dirancang untuk membantu bisnis dalam digitalisasi dengan layanan Web 3.0, AI Integration, dan Data Analytics.
