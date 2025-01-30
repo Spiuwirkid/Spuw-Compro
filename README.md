@@ -55,7 +55,7 @@ Cukup klik dua kali pada file `index.html` atau gunakan Live Server jika memakai
 ---
 
 ## 🌐 Live Demo  
-🔗 **[Lihat Demo](https://username.github.io/spuwtech-website/)**  
+🔗 **[Lihat Demo](https://spiuwirkid.github.io/Spuw-Compro//)**  
 
 ---
 
