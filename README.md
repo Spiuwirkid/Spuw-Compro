@@ -34,7 +34,7 @@
 ![Desktop Screenshot](https://i.ibb.co.com/Y7YdctX9/Screenshot-2025-01-31-015416.png)
 
 ### 📱 Mobile View  
-![Mobile Screenshot](https://dummyimage.com/600x1200/3b82f6/ffffff&text=Mobile+View)
+![Mobile Screenshot](https://i.ibb.co.com/cKvQHRLw/Screenshot-2025-01-31-015600.png)
 
 ---
 
