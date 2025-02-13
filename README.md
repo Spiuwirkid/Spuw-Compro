@@ -70,12 +70,12 @@ Cukup klik dua kali pada file `index.html` atau gunakan Live Server jika memakai
 ---
 
 ## 📩 Contact  
-📧 Email: [contact@spuwtech.digital](mailto:contact@spuwtech.digital)  
-🌍 Website: [SpuwTech](https://spuwtech.digital)  
+📧 Email: [davayusteputra@proton.me](mailto:davayusteputra@proton.me)  
+🌍 Website: [SpuwTech](https://davadev.site)  
 
 📱 Follow us:  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/spuwtech)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/spuwtech.id)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ddavayuste__)  
 
 ---
 
